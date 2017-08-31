@@ -2,7 +2,7 @@
 
 # Description
 
-**Sublime Material Icon Pack** is heavily inspired by, and fits very well the [Material Theme](https://github.com/equinusocio/material-theme) for [Sublime Text 3](https://www.sublimetext.com/). It contains a total of 44 icons, with 4 different themes and 11 different accent colors for each. ICNS format for macOS up to 512x512 resolution and ICO format for Windows up to 256x256 resolution are included. For a more appealing look, installing the [Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar) addon is highly recommended.
+**Sublime Material Icon Pack** is heavily inspired by, and fits very well the [Material Theme](https://github.com/equinusocio/material-theme) for [Sublime Text 3](https://www.sublimetext.com/). It contains a total of 44 icons, with 4 different themes and 11 different accent colors for each. PNG files at 1024x1024 resolution, ICNS format for macOS up to 512x512 resolution and ICO format for Windows up to 256x256 resolution are included. For a more appealing look, installing the [Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar) addon is highly recommended.
 
 # Previews
 
